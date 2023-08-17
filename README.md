@@ -1,3 +1,4 @@
+
 # Proyecto_Final_Vega
 
 ## Instrucciones instalar proyecto en local
@@ -24,5 +25,6 @@ python manage.py createsuperuser
 Username: admin
 Email address: 
 password: admin1
+
 
 
