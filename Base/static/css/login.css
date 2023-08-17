@@ -1,0 +1,101 @@
+body {
+    background-color: #0799d3;
+    color: rgb(109, 109, 109);
+}
+
+#loginbox {
+    margin-top: 30px;
+}
+
+#loginbox>div:first-child {
+    padding-bottom: 10px;
+}
+
+.iconmelon {
+    display: block;
+    margin: auto;
+}
+
+#form>div {
+    margin-bottom: 25px;
+}
+
+#form>div:last-child {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.panel {
+    background-color: transparent;
+}
+
+.panel-body {
+    padding-top: 30px;
+    background-color: #24bae0;
+    border: 2px solid rgb(136, 136, 136);
+}
+
+#particles {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: -2;
+}
+
+.iconmelon, .im {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    display: block;
+    fill: #00afe4;
+}
+
+.iconmelon:after, .im:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#about {
+    color: white;
+    background-color: #00afe4;
+}
+
+#signUpHeader {
+    background-color: #00afe4;
+}
+
+.input-group-addon {
+    background-color: #00afe4;
+    border-color: #00afe4;
+}
+
+.input-group-addon:first-child, .fa-twitter, h2 {
+    color: white;
+}
+
+.form-control {
+    border-color: #00afe4;
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bold;
+}
+
+#signUpBtn {
+    color: #00afe4;
+    font-weight: bold;
+    background-color: white;
+}
+
+#about-content {
+    margin-top: 25px;
+    font-weight: bold;
+}
